@@ -1,6 +1,9 @@
 {
 	"name": "ladybird/faveosms",
 	"description": "For our Faveo Helpdesk product",
+	"license": "MIT",
+        "type": "project",
+        "minimum-stability": "stable",
 	"authors": [
 		{
 			"name": "Vijay Sebastian",
