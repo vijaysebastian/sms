@@ -3,7 +3,7 @@
 	"description": "For our Faveo Helpdesk product",
 	"license": "MIT",
         "type": "project",
-        "minimum-stability": "stable",
+        "minimum-stability": "RC",
 	"authors": [
 		{
 			"name": "Vijay Sebastian",
@@ -17,6 +17,6 @@
 	},
 	"require": {
         "php": ">=5.3.0",
-        "ladybird/faveosms": "dev-feature/laravel-5 as 2.1.4"
+        "ladybird/faveosms": ""1.0.*@dev""
     }
 }
