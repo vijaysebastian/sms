@@ -22,5 +22,5 @@
     "require-dev": {
 		"nicolaslopezj/searchable": "1.*",
                 "wikimedia/composer-merge-plugin": "dev-master"
-	},
+	}
 }
