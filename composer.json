@@ -17,6 +17,6 @@
 	},
 	"require": {
         "php": ">=5.3.0",
-        "ladybird/faveosms": "dev-master"
+        "ladybird/faveosms": "dev-feature/laravel-5 as 2.1.4"
     }
 }
