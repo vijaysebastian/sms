@@ -1,0 +1,15 @@
+{
+	"name": "ladybird/faveosms",
+	"description": "For our Faveo Helpdesk product",
+	"authors": [
+		{
+			"name": "Vijay Sebastian",
+			"email": "vijay.sebastian@ladybirdweb.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Modules\\FaveoSms\\": ""
+		}
+	}
+}
